@@ -7,7 +7,7 @@ function product(){
     for(let i = 0; i < 14; i++ ){
       product.innerHTML += '<div id="prd'+i+'" class="product">'+
       '<div class="product-img">'+
-          '<img src="/image/61oQly6YbHL._AC_SL1500_.jpg" alt="">'+
+          '<img src="./image/61oQly6YbHL._AC_SL1500_.jpg" alt="">'+
       '</div>'+
       '<div class="product-details">'+
                         '<span class="prd-name">Beats Solo3 Wireless On-Ear Headphones</span>'+
